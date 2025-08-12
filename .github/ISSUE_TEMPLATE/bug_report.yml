@@ -1,6 +1,6 @@
 name: 🐛 Something isn't working
 description: Let us know if something in the app isn't working right
-title: ""
+title: "[Bug]: "
 labels: ["bug"]
 assignees: []
 body:
