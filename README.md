@@ -2,9 +2,12 @@
 
 Welcome to the ControlHub feedback repository! This is the place to report bugs, request features, and provide suggestions for our iOS app.
 
+📱 **[Download ControlHub on the App Store](https://apps.apple.com/us/app/controlhub-remote/id6475387909)**  
+🌐 **[Visit the ControlHub Website](https://controlhub.vishalvshekkar.com)**
+
 ## What is ControlHub?
 
-ControlHub is a native iOS app that provides a comprehensive dashboard for managing Control D DNS filtering services. Built with SwiftUI, the app offers real-time monitoring, device management, profile configuration, and detailed analytics for your Control D infrastructure.
+ControlHub is a native app (iOS, macOS, iPadOS, visionOS) that provides a comprehensive dashboard for managing Control D DNS filtering services. Built with SwiftUI, the app offers real-time monitoring, device management, profile configuration, and detailed analytics for your Control D infrastructure.
 
 ### Key Features:
 - **Real-time Dashboard**: Live monitoring of DNS filtering status across all devices
@@ -68,9 +71,10 @@ I use the following labels to organize issues:
 
 ## Links
 
+- [ControlHub Website](https://controlhub.vishalvshekkar.com)
+- [App Store](https://apps.apple.com/us/app/controlhub-remote/id6475387909)
 - [Developer Website](https://vishalvshekkar.com)
 - [Developer Blog](https://musings.vishalvshekkar.com)
-- [App Store](https://apps.apple.com/app/controlhub) *(Coming Soon)*
 - [Support](mailto:controlhub@vishalvshekkar.com)
 
 ## Community Guidelines
