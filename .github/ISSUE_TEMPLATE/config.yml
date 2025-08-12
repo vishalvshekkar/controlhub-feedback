@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 General Discussion
+    url: https://github.com/vishal/controlhub-feedback/discussions
+    about: For general questions, ideas, and open-ended discussions about ControlHub
+  - name: 🆘 Technical Support
+    url: mailto:controlhub@vishalvshekkar.com
+    about: For immediate technical support and account-related issues
+  - name: 🔒 Security Issues
+    url: mailto:controlhub@vishalvshekkar.com
+    about: For reporting security vulnerabilities (please do not use public issues)

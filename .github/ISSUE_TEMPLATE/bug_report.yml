@@ -1,0 +1,148 @@
+name: 🐛 Bug Report
+description: Report a bug or issue with the ControlHub iOS app
+title: "[Bug]: "
+labels: ["type: bug", "status: needs-triage"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Please fill out the information below to help us understand and reproduce the issue.
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Pre-submission checklist
+      description: Please confirm the following before submitting
+      options:
+        - label: I have searched existing issues to make sure this hasn't been reported before
+          required: true
+        - label: I have updated to the latest version of the app
+          required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: A clear and concise description of what the bug is
+      placeholder: Describe what happened and what you expected to happen
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      description: Clear steps to reproduce the behavior
+      placeholder: |
+        1. Go to '...'
+        2. Tap on '...'
+        3. Scroll down to '...'
+        4. See error
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What you expected to happen
+      placeholder: Describe the expected behavior
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: What actually happened
+      placeholder: Describe the actual behavior
+    validations:
+      required: true
+
+  - type: dropdown
+    id: ios-version
+    attributes:
+      label: iOS Version
+      description: What version of iOS are you running?
+      options:
+        - iOS 18.x
+        - iOS 17.x
+        - iOS 16.x
+        - iOS 15.x
+        - Other (please specify in additional context)
+    validations:
+      required: true
+
+  - type: input
+    id: app-version
+    attributes:
+      label: App Version
+      description: What version of ControlHub are you using? (Check in Settings > About)
+      placeholder: "e.g., 1.2.3"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: device
+    attributes:
+      label: Device Model
+      description: What iPhone/iPad model are you using?
+      options:
+        - iPhone 15 Pro Max
+        - iPhone 15 Pro
+        - iPhone 15 Plus
+        - iPhone 15
+        - iPhone 14 Pro Max
+        - iPhone 14 Pro
+        - iPhone 14 Plus
+        - iPhone 14
+        - iPhone 13 Pro Max
+        - iPhone 13 Pro
+        - iPhone 13 mini
+        - iPhone 13
+        - iPhone 12 Pro Max
+        - iPhone 12 Pro
+        - iPhone 12 mini
+        - iPhone 12
+        - iPhone 11 Pro Max
+        - iPhone 11 Pro
+        - iPhone 11
+        - iPhone SE (3rd generation)
+        - iPhone SE (2nd generation)
+        - iPad Pro 12.9-inch
+        - iPad Pro 11-inch
+        - iPad Air
+        - iPad mini
+        - iPad (10th generation)
+        - iPad (9th generation)
+        - Other (please specify in additional context)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: How often does this happen?
+      options:
+        - Always
+        - Often
+        - Sometimes
+        - Rarely
+        - First time
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots/Screen Recordings
+      description: If applicable, add screenshots or screen recordings to help explain your problem
+      placeholder: Drag and drop images/videos here or paste them
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Add any other context about the problem here (error messages, network conditions, etc.)
+      placeholder: Any additional information that might be helpful

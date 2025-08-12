@@ -1,0 +1,108 @@
+name: ✨ Feature Request
+description: Suggest a new feature or enhancement for the ControlHub iOS app
+title: "[Feature]: "
+labels: ["type: feature", "status: needs-triage"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a new feature! Please provide as much detail as possible to help us understand your request.
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Pre-submission checklist
+      description: Please confirm the following before submitting
+      options:
+        - label: I have searched existing issues to make sure this hasn't been requested before
+          required: true
+        - label: This is a feature request for the ControlHub iOS app specifically
+          required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: What problem does this feature solve? What pain point are you experiencing?
+      placeholder: "As a user, I'm frustrated when..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: Describe the feature you'd like to see implemented
+      placeholder: "I would like to be able to..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: user-story
+    attributes:
+      label: User Story
+      description: Describe how you would use this feature
+      placeholder: |
+        As a [type of user], I want [goal/desire] so that [benefit/reason].
+        
+        Example flow:
+        1. I open the app
+        2. I navigate to...
+        3. I tap...
+        4. The app shows/does...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: How important is this feature to you?
+      options:
+        - Critical - I need this to use the app effectively
+        - High - This would significantly improve my experience
+        - Medium - This would be nice to have
+        - Low - This is just a suggestion
+    validations:
+      required: true
+
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: How often would you use this feature?
+      options:
+        - Daily
+        - Weekly
+        - Monthly
+        - Occasionally
+        - Rarely
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternative Solutions
+      description: Have you considered any alternative solutions or workarounds?
+      placeholder: "I've tried... but it doesn't work because..."
+
+  - type: textarea
+    id: examples
+    attributes:
+      label: Examples from Other Apps
+      description: Are there any other apps that implement this feature well? Please provide examples.
+      placeholder: "App X does this by... and I like it because..."
+
+  - type: textarea
+    id: mockups
+    attributes:
+      label: Mockups/Sketches
+      description: If you have any mockups, wireframes, or sketches, please attach them here
+      placeholder: Drag and drop images here or paste them
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Add any other context, screenshots, or details about the feature request here
+      placeholder: Any additional information that might be helpful
