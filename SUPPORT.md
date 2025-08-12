@@ -10,7 +10,7 @@ Need help with ControlHub? Here's how to get the support you need.
 - **Best For**: Account issues, app crashes, billing questions, feature help
 
 ### For Feature Requests and Bug Reports
-- **GitHub Issues**: Use our [issue templates](../../issues/new/choose)
+- **GitHub Issues**: Use our simple [issue templates](../../issues/new/choose)
 - **Best For**: Reporting bugs, requesting features, suggesting improvements
 
 ### For General Discussion
@@ -30,22 +30,21 @@ Please check these resources first:
 
 For the fastest resolution:
 
-1. Use our [Bug Report template](../../issues/new?template=bug_report.yml)
-2. Include:
-   - iOS version
-   - App version
-   - Device model
-   - Steps to reproduce
-   - Screenshots or recordings
+1. Use our [Something isn't working template](../../issues/new?template=bug_report.yml)
+2. Fill out the simple form:
+   - What's the problem?
+   - What did you expect to happen?
+   - What device are you using?
+   - Screenshots (optional)
 
 ## ✨ Feature Requests
 
 Have an idea for ControlHub?
 
-1. Use our [Feature Request template](../../issues/new?template=feature_request.yml)
-2. Explain the problem you're solving
-3. Describe your proposed solution
-4. Include use cases and examples
+1. Use our [I have an idea template](../../issues/new?template=feature_request.yml)
+2. Tell us your idea
+3. Explain why it would be helpful
+4. Let us know how important it is to you
 
 ## 🔒 Security Issues
 
@@ -64,12 +63,10 @@ Include:
 When contacting support, please include:
 
 ### For Technical Issues:
-- iOS version (Settings > General > About)
-- App version (ControlHub > Settings > About)
-- Device model (iPhone 15 Pro, iPad Air, etc.)
-- Description of the issue
+- What device you're using (iPhone 15 Pro, iPad Air, etc.)
+- Description of what's wrong
 - When it started happening
-- Steps you've already tried
+- Screenshots if helpful
 
 ### For Account Issues:
 - Email address associated with your account

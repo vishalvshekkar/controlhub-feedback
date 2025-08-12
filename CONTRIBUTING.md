@@ -9,12 +9,12 @@ This repository accepts the following types of contributions:
 ### 🐛 Bug Reports
 - Issues you've encountered while using the ControlHub iOS app
 - Crashes, unexpected behavior, or features not working as intended
-- Use the **Bug Report** template
+- Use the **Something isn't working** template
 
 ### ✨ Feature Requests
 - New functionality you'd like to see in the app
 - Improvements to existing features
-- Use the **Feature Request** template
+- Use the **I have an idea** template
 
 ### 💬 General Feedback
 - Suggestions for improving user experience
@@ -32,21 +32,21 @@ This repository accepts the following types of contributions:
 
 ### Filing a Bug Report
 
-1. Use the [Bug Report template](../../issues/new?assignees=&labels=type%3A+bug%2Cstatus%3A+needs-triage&template=bug_report.yml)
-2. Fill out all required fields
-3. Include:
-   - Clear steps to reproduce
-   - Expected vs actual behavior
-   - iOS version and app version
-   - Screenshots/recordings if helpful
+1. Use the [Something isn't working template](../../issues/new?template=bug_report.yml)
+2. Fill out the simple form:
+   - What's the problem?
+   - What did you expect to happen?
+   - What device are you using?
+   - Screenshots (optional)
 
 ### Requesting a Feature
 
-1. Use the [Feature Request template](../../issues/new?assignees=&labels=type%3A+feature%2Cstatus%3A+needs-triage&template=feature_request.yml)
-2. Explain the problem you're trying to solve
-3. Describe your proposed solution
-4. Include use cases and examples
-5. Add mockups or references if available
+1. Use the [I have an idea template](../../issues/new?template=feature_request.yml)
+2. Fill out the simple form:
+   - What's your idea?
+   - Why would this be helpful?
+   - How important is this to you?
+   - Any other details (optional)
 
 ### General Discussions
 
@@ -67,20 +67,16 @@ For open-ended conversations, questions, or brainstorming:
 ## Writing Quality Issues
 
 ### Good Bug Reports Include:
-- Clear, descriptive title
-- Detailed reproduction steps
-- Expected vs actual behavior
-- System information (iOS version, app version, device)
-- Screenshots or recordings
-- Any error messages
+- Clear description of what's wrong
+- What you expected to happen instead
+- What device you're using
+- Screenshots if helpful
 
 ### Good Feature Requests Include:
-- Clear problem statement
-- Detailed proposed solution
-- User stories and use cases
-- Priority and frequency of use
-- Examples from other apps
-- Mockups or wireframes (if available)
+- Clear explanation of your idea
+- Why it would be helpful
+- How important it is to you
+- Any additional context
 
 ## What's Not Appropriate
 
@@ -98,7 +94,7 @@ For open-ended conversations, questions, or brainstorming:
 
 ## Labels Used
 
-- **Type**: `bug`, `feature`, `enhancement`
+- **Type**: `bug`, `feature`
 - **Priority**: `p1` (high), `p2` (medium), `p3` (low)
 - **Status**: `needs-triage`, `planned`, `in-progress`, `completed`
 

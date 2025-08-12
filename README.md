@@ -34,19 +34,18 @@ For general discussions about the app use [GitHub Discussions](https://github.co
 Please check the following before creating a new issue:
 
 - [ ] Search existing issues to avoid duplicates
-- [ ] Use the appropriate issue template (Bug Report or Feature Request)
-- [ ] Provide clear, detailed information
-- [ ] Include relevant screenshots or screen recordings when helpful
-- [ ] For bugs: include your iOS version and app version
+- [ ] Use the appropriate issue template
+- [ ] Describe your issue clearly
+- [ ] Include screenshots if helpful
 
 ## How to Report Issues
 
 1. Click on the [Issues](../../issues) tab
 2. Click "New Issue"
 3. Choose the appropriate template:
-   - **Bug Report** for problems or unexpected behavior
-   - **Feature Request** for new functionality suggestions
-4. Fill out all required fields in the template
+   - **Something isn't working** for problems with the app
+   - **I have an idea** for new features or improvements
+4. Fill out the simple form
 5. Submit your issue
 
 ## Labels and Priority
@@ -54,9 +53,8 @@ Please check the following before creating a new issue:
 I use the following labels to organize issues:
 
 **Type:**
-- `type: bug` - Something isn't working
-- `type: feature` - New feature request
-- `type: enhancement` - Improvement to existing feature
+- `bug` - Something isn't working
+- `feature` - New feature or improvement idea
 
 **Priority:**
 - `priority: p1` - Critical/High priority
