@@ -7,7 +7,6 @@ Welcome to the ControlHub feedback repository! This is the place to report bugs,
 ControlHub is a native iOS app that provides a comprehensive dashboard for managing Control D DNS filtering services. Built with SwiftUI, the app offers real-time monitoring, device management, profile configuration, and detailed analytics for your Control D infrastructure.
 
 ### Key Features:
-- **Multi-Account Management**: Support for multiple Control D accounts with seamless switching
 - **Real-time Dashboard**: Live monitoring of DNS filtering status across all devices
 - **Device Management**: Comprehensive endpoint monitoring with device-specific configurations
 - **Profile Management**: Create, edit, and manage DNS filtering profiles with custom rules
@@ -23,11 +22,9 @@ This repository is specifically for:
 - 🚀 **Enhancements** - Improvements to existing features
 - 💡 **General Feedback** - Your thoughts and suggestions
 
-## What This Repository Is NOT For
+## Discussions
 
-- Technical support questions (use our support channels instead)
-- General discussions about the app (use GitHub Discussions)
-- Requests for immediate fixes (critical issues should go through support)
+For general discussions about the app use [GitHub Discussions](https://github.com/vishalvshekkar/controlhub-feedback/discussions).
 
 ## Before Filing an Issue
 
