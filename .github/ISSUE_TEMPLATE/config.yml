@@ -1,7 +1,7 @@
 blank_issues_enabled: true
 contact_links:
   - name: 💬 General Discussion
-    url: https://github.com/vishal/controlhub-feedback/discussions
+    url: https://github.com/vishalvshekkar/controlhub-feedback/discussions
     about: For general questions, ideas, and open-ended discussions about ControlHub
   - name: 🆘 Technical Support
     url: mailto:controlhub@vishalvshekkar.com
