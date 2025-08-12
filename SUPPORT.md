@@ -59,8 +59,6 @@ Include:
 - Potential impact
 - Any suggested fixes
 
-We'll respond within 48 hours and work with you to resolve the issue.
-
 ## 📱 What Information to Include
 
 When contacting support, please include:

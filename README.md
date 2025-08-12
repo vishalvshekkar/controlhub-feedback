@@ -48,7 +48,7 @@ Please check the following before creating a new issue:
 
 ## Labels and Priority
 
-We use the following labels to organize issues:
+I use the following labels to organize issues:
 
 **Type:**
 - `type: bug` - Something isn't working

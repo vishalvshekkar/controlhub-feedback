@@ -2,11 +2,11 @@
 
 ## Our Commitment
 
-We are committed to providing a friendly, safe, and welcoming environment for everyone contributing to ControlHub feedback, regardless of experience level, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristics.
+I am committed to providing a friendly, safe, and welcoming environment for everyone contributing to ControlHub feedback, regardless of experience level, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, caste, age, religion, nationality, or other similar characteristics.
 
 ## Expected Behavior
 
-We expect all community members to:
+I expect all community members to:
 
 - **Be respectful and inclusive** - Treat everyone with respect and create an inclusive environment
 - **Be constructive** - Provide helpful and actionable feedback
